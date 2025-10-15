@@ -1,0 +1,7 @@
+**README**
+
+The Burkina Faso Municipal Performance Monitoring (**SUPERMUN**) - Suivi de la Performance Municipale, is an annual survey data collect, process and gather data on municipal institutional capacity and local basic service delivery.
+
+SUPERMUN started in 2013, under the Burkina Faso Bank-supported Local Government Support Programme (PACT), and developed performance indicators for public services and institutional capacity. Data have been collected since 2014 for the calculation and dissemination of municipal performance indicators. From 2014 to 2017, these data covered six (6) regions of Burkina Faso, namely the Cascades, the Centre, the Centre-Est, the Centre-Sud, the Central Plateau and the Sahel. As of 2018, data collection covers all 349 communes in the country (except Ouagadougou and Bobo-Dioulasso, which are special status communes).
+
+Under SUPERMUN, **sixteen (16) performance indicators** were developed and fall into two categories: seven (7) indicators on the **institutional capacity** of municipal governments, and nine (09) indicators on **public service delivery**. Institutional capacity indicators relate to _municipality staff, regular municipal council sessions and consultation forums, tax revenue collected and procurement plan execution_. In the category of public service delivery, the indicators relate to _education, health, water and sanitation, and civil registration_. 
